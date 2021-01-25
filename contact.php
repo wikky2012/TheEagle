@@ -4,7 +4,7 @@ $error_message = "";
 if(isset($_POST['contact'])) {
  
     
-    $email_to = "sulabknight@gmail.com";
+    $email_to = "wicliferono@gmail.com";
     $email_subject = "Contact Form";
  
     function died($error) {
