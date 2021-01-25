@@ -746,12 +746,15 @@ h6 a:hover{
   display: inline-block;
   margin: 0px 0px 0px 26px;
 }
-.col-md-4{
-  font-size: xx-large;
+.col-md-3{
+  font-size: larger;
+  font-weight: 1600;
 }
-.col-md-4 img{
+.col-md-3 img{
+  margin-top:25px;
+  margin-top:25px;
   margin-left: -50px;
-  border-radius: 5px;
+  border-radius: 15px;
   height: 100px;
   width: 100px;
  
