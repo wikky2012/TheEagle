@@ -2583,3 +2583,7 @@ textarea{
   height: 420px;
   width: 100%;
 }
+div{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
