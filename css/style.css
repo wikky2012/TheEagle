@@ -753,10 +753,11 @@ h6 a:hover{
 .col-md-3 img{
   margin-top:25px;
   margin-top:25px;
-  margin-left: -50px;
+  margin-left: -25px;
   border-radius: 15px;
   height: 100px;
   width: 100px;
+ 
  
 }
 span{
