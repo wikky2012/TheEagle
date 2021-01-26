@@ -750,14 +750,20 @@ h6 a:hover{
   font-size: larger;
   font-weight: 1600;
 }
+
 .col-md-3 img{
   margin-top:25px;
   margin-top:25px;
   margin-left: -25px;
-  border-radius: 15px;
-  height: 100px;
+  height:100px;
   width: 100px;
  
+}
+.our-team img{
+  height:200px;
+}
+.gallery-wideget{
+  text-align: center;
 }
 span{
   color: #337ab7;
