@@ -1549,6 +1549,9 @@ span{
   border: 1px solid  #337ab7;
   transition: all 500ms ease;
 }
+.logo-wideget{
+  padding-top: 10px;
+}
 .main-footer .footer-title h4{
   color: #fff;
   margin-bottom: 27px;
