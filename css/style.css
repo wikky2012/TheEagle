@@ -1550,6 +1550,7 @@ span{
   transition: all 500ms ease;
 }
 .logo-wideget{
+  text-align: center;
   padding-top: 10px;
 }
 .main-footer .footer-title h4{
