@@ -1554,6 +1554,12 @@ span{
   margin-bottom: 27px;
   margin-top: -8px;
 }
+.footer-title{
+  text-align: center;
+}
+.footer-title li{
+  text-align: center;
+}
 .main-footer .link-wideget{
   position: relative;
   margin-left: 61px;
