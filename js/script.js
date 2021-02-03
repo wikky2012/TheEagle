@@ -28,7 +28,7 @@
 	}
 
 
-	//Update header style + Scroll to Top
+	//Upda   header style + Scroll to Top
 	function headerStyle() {
 		if($('.main-header').length){
 			var windowpos = $(window).scrollTop();
