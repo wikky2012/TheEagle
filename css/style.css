@@ -60,6 +60,7 @@
 @import url(hover.css);
 @import url(ms-staff-style.css);
 @import url(masterslider.css);
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300&family=Playball&display=swap');
 
 
 
@@ -2611,4 +2612,16 @@ h5 strong{
 span strong{
   font-weight: bolder;
   font-size: x-large;
+}
+.col-md-3 {
+  padding-left: 30px;
+  text-align: center;
+  background-color: lavender;
+  border-radius: 10px;
+  font-family: 'Cormorant Upright', serif;
+
+
+}
+.col-md-3  img{
+  padding-top: 0%;
 }
