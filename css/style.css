@@ -2605,6 +2605,10 @@ div{
 h2{
   color: #337ab7;
 }
-strong{
+h5 strong{
   color: black;
+}
+span strong{
+  font-weight: bolder;
+  font-size: x-large;
 }
