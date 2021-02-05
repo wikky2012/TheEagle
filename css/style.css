@@ -2639,3 +2639,8 @@ span strong{
   width:100%;
   position:absolute;
 }
+h2{
+  padding-top: 0px;
+  padding-bottom: 5px;
+  text-align: center;
+}
