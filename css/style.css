@@ -2642,5 +2642,8 @@ span strong{
 h2{
   padding-top: 0px;
   padding-bottom: 5px;
+  
+}
+#offer h2{
   text-align: center;
 }
