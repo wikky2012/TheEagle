@@ -61,9 +61,9 @@
 @import url(ms-staff-style.css);
 @import url(masterslider.css);
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Upright:wght@300&family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Philosopher&display=swap');
 
-
-
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&family=Philosopher&display=swap');
 /*** 
 
 ====================================================================
@@ -2646,4 +2646,8 @@ h2{
 }
 #offer h2{
   text-align: center;
+}
+.text{
+  font-family: 'Philosopher', sans-serif;
+  font-family: 'El Messiri', sans-serif;
 }
