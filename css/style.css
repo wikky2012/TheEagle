@@ -2653,10 +2653,14 @@ h2{
 }
 #who-we-are h2{
   font-family: 'Charm', cursive;
-text-align: center;
+ text-align: center;
 }
 #class p{
   font-family: 'Charm', cursive;
   text-align: center;
   color: #337ab7;
+  }
+  #management h2{
+  font-family: 'Charm', cursive;
+  text-align: center;
   }
