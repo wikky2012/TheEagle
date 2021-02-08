@@ -2651,3 +2651,10 @@ h2{
   font-family: 'Philosopher', sans-serif;
   font-family: 'El Messiri', sans-serif;
 }
+#who-we-are h2{
+text-align: center;
+}
+#who-we-are p{
+  text-align: center;
+  color: #000;
+  }
