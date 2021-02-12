@@ -2672,3 +2672,11 @@ h2{
     text-align: center;
     color: #337ab7;
   }
+  th {
+    text-align: center;
+    color: black;
+  }
+  td{
+    text-align: center;
+    color: black;
+  }
