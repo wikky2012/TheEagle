@@ -2667,7 +2667,8 @@ h2{
   #vinnie{
     text-align: center;
   }
-  #calender h2{
+  #calender h4{
     font-family: 'Charm', cursive;
     text-align: center;
+    color: #337ab7;
   }
